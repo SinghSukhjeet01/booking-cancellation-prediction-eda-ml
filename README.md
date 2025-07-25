@@ -10,7 +10,7 @@ By analyzing booking records and applying classification models, this project ai
 
 I explored different types of datasets and platforms with the aim of obtaining recent, accurate, and business-relevant data. After evaluating several options, I selected the "Hotel Reservations Dataset" from Kaggle, a widely used platform for high-quality datasets.
 ### 📌 Dataset Summary:
-- **Source**: (https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset))
+- **Source**: https://www.kaggle.com
 - **Size**: 36,275 entries and 19 attributes
 - **Target Variable**: `booking_status` (Cancelled / Not_Cancelled)
 - **Attributes Include**:
